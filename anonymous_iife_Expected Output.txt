@@ -1,0 +1,40 @@
+//a. Print odd numbers in an array by the use of anonymous function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node oddNumbers.js
+1 3 5
+
+//b. Convert all the strings to title caps in a string array
+// by anonymous function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node titleCap.js  
+Hi How Are You
+
+//c. Sum of all numbers in an array
+// by anonymous function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node sum.js
+21
+
+//d. Return all the prime numbers in an array
+// by anonymous function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node primeNumbers.js
+2 3 5 7 11 
+
+//e. Return all the palindromes in an array
+// by iife function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node palindromes.js 
+1 11 343 575 7887 80108 999 11 
+
+//f. Return median of two sorted arrays of the same size.
+//by iife function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node median.js     
+4.5
+
+//g. Remove duplicates from an array
+// by iife function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node removeDuplicates.js
+1 2 3 4
+
+//h. Rotate an array by k times
+//by iife function
+PS C:\Users\Neshanth\Documents\task 4\anonymous_iife> node rotate.js
+6 7 8 9 0 1 2 3 4 5  
+  
+
