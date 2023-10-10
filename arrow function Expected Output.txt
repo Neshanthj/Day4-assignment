@@ -1,0 +1,19 @@
+//2. a Print odd numbers in an array
+PS C:\Users\Neshanth\Documents\task 4\arrow_function> node oddNumber.js 
+1 3 5
+
+// b. Convert all the strings to title caps in a string array
+PS C:\Users\Neshanth\Documents\task 4\arrow_function> node titleCaps.js       
+Hi How Are You
+
+//c. Sum of all numbers in an array
+PS C:\Users\Neshanth\Documents\task 4\arrow_function> node sum.js
+21
+
+//d. Return all the prime numbers in an array
+PS C:\Users\Neshanth\Documents\task 4\arrow_function> node primeNumbers.js    
+2 3 5 7 11 
+
+//e. Return all the palindromes in an array
+PS C:\Users\Neshanth\Documents\task 4\arrow_function> node palindrome.js 
+1 11 343 80108 8008 999 700007 
